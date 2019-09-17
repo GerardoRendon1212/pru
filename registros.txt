@@ -1,0 +1,7 @@
+maestro,1,Pedro,ITI,predro_12@gmail.com,018341892714
+alumno,1530074,Alexis,MANUFACTURA,1530074@upv.edu.mx,018341892714
+maestro,2,Valentin,MECATRONICA,1430299@upv.edu,8439339
+alumno,1530076,Violeta,ITI,veli@gmail.com,018341892714
+maestro,3,Hortencia,PYMES,ho@gmail.com,548698
+alumno,1530075,Hola,ITM,hhola@gmail.com,018341892714
+alumno,1430218,Daniel,ITI,1430218@upv.edu.mx,83421123213
